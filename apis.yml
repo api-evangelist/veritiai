@@ -38,7 +38,7 @@ x-status: acquired
 x-acquired-by: check-point
 x-acquired-announced: '2025-05-27'
 x-redirects-to: https://www.checkpoint.com/exposure-management/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
